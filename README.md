@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Funny + Technical GIF at top -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480" alt="data scientist at work" />
+<!-- Animated banner — save banner.svg to this repo and it renders natively on GitHub -->
+<img src="./banner.svg" alt="Kishore Kumar BN — Data Science terminal banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
 # Kishore Kumar B N
-### Aspiring Data Scientist
+### M.Tech Data Science · SRMIST &nbsp;|&nbsp; Aspiring Data Scientist
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorekumarbn/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorekumarbn18@gmail.com)
@@ -19,16 +21,17 @@
 
 ## 👨‍🎓 About Me
 
-🎓 Pursuing **M.Tech in Data Science** at **SRMIST** (SRM Institute of Science and Technology)
+🎓 Pursuing **M.Tech in Data Science** at **SRM Institute of Science and Technology (SRMIST)**
 
-📍 India &nbsp;|&nbsp; 📬 [kishorekumarbn18@gmail.com](mailto:kishorekumarbn18@gmail.com)
+📍 India &nbsp;|&nbsp; 
+📬 [kishorekumarbn18@gmail.com](mailto:kishorekumarbn18@gmail.com)
 
-🔬 **Currently Working On:**
+🔬 **Currently Researching:**
 > *"Comparative and Ensemble-Based Approach for Time-Series Energy Consumption Forecasting Using Machine Learning and LSTM Networks"*
 
-🏆 **Recent Hackathon:** TANFINET Hackathon 2026 &nbsp;|&nbsp; SAP × Great Lakes HackFest 2026
+🏆 **Hackathons:** TANFINET Hackathon 2026 &nbsp;|&nbsp; SAP × Great Lakes HackFest 2026
 
-💡 **Interests:** Machine Learning · NLP · Data Analytics · MLOps · GenAI
+💡 **Interests:** Machine Learning · NLP · Data Analytics · MLOps · GenAI · Time-Series Forecasting
 
 ---
 
@@ -73,7 +76,7 @@
           <img src="https://img.shields.io/badge/Original%20Repo-555?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>The <em>"SEO tool for AI Shopping Agents"</em>. ML-powered diagnostic platform that scores e-commerce APIs for autonomous AI agent compatibility. Random Forest (R²=0.94) trained on 100K real orders, real-time SSE simulation, fraud detection, and ROI action plans with <strong>165× return</strong>.</p>
+      <p>The <em>"SEO tool for AI Shopping Agents"</em> — ML-powered diagnostic platform that scores e-commerce APIs for autonomous AI agent compatibility. Random Forest (R²=0.94) trained on 100K real orders, real-time SSE simulation, fraud detection, and ROI action plans with <strong>165× return</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/R²-0.94-brightgreen?style=flat-square"/>
         <img src="https://img.shields.io/badge/MAE-2.1_pts-blue?style=flat-square"/>
@@ -130,7 +133,7 @@
           <img src="https://img.shields.io/badge/View%20Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>End-to-end pipeline: scrape bus data via Selenium → store in SQL → query interactively through a Streamlit app.</p>
+      <p>End-to-end pipeline: scrape bus data from RedBus via Selenium → store in SQL → query interactively through a Streamlit app.</p>
       <p><strong>Stack:</strong> Python · Selenium · MySQL · Streamlit</p>
     </td>
   </tr>
@@ -152,7 +155,7 @@
           <img src="https://img.shields.io/badge/View%20Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>Crime trend analysis with temporal insights, geospatial mapping, and crime type breakdowns — visualized in Power BI.</p>
+      <p>Crime trend analysis with temporal insights, geospatial mapping, and crime type breakdowns — visualized in a Power BI dashboard.</p>
       <p><strong>Stack:</strong> Python · Power BI · Pandas · Geospatial</p>
     </td>
   </tr>
@@ -180,7 +183,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ⚙️ MLOps, Deployment & Tools
+### ⚙️ MLOps & Deployment
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -208,7 +211,7 @@
 
 <div align="center">
 
-[![Kishore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishorekumarbn&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishorekumarbn&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -216,7 +219,7 @@
 
 ## 🌱 Currently Learning
 
-- 📉 **Time-Series Forecasting** — LSTM, ARIMA, Prophet, Ensemble stacking for energy prediction
+- 📉 **Time-Series Forecasting** — LSTM, ARIMA, Prophet, ensemble stacking for energy prediction
 - 🤖 **LLMs & GenAI** — LangChain, RAG pipelines, OpenAI & Anthropic APIs
 - ☁️ **Cloud ML** — AWS SageMaker & Azure ML
 - 🔁 **MLOps** — CI/CD for ML models, experiment tracking, model registry
@@ -235,12 +238,10 @@ Open to **Data Science roles**, **research collaborations**, and **hackathons**.
 
 ---
 
-<!-- Funny gif at bottom -->
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" alt="when the model finally converges"/>
+<!-- Funny bottom note -->
+<sub><i>My models are in production. My sleep schedule is not. 🧠☕</i></sub>
 
-*When the model finally converges after 47 epochs* 🎉
-
----
+<br/>
 
 ⭐️ **If you find my work useful, drop a star!** ⭐️
 
