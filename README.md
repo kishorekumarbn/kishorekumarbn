@@ -26,7 +26,7 @@
 🔬 **Currently Working On:**
 > *"Comparative and Ensemble-Based Approach for Time-Series Energy Consumption Forecasting Using Machine Learning and LSTM Networks"*
 
-🏆 **Hackathon Wins:** TANFINET Hackathon 2026 &nbsp;|&nbsp; SAP × Great Lakes HackFest 2026
+🏆 **Recent Hackathon:** TANFINET Hackathon 2026 &nbsp;|&nbsp; SAP × Great Lakes HackFest 2026
 
 💡 **Interests:** Machine Learning · NLP · Data Analytics · MLOps · GenAI
 
