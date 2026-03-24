@@ -243,6 +243,6 @@ Open to **Data Science roles**, **research collaborations**, and **hackathons**.
 
 <br/>
 
-⭐️ **If you find my work useful, drop a star!** ⭐️
+⭐️ **If you find my work useful, drop a star!** ⭐️ :)
 
 </div>
