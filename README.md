@@ -224,7 +224,7 @@
 - ☁️ **Cloud ML** — AWS SageMaker & Azure ML
 - 🔁 **MLOps** — CI/CD for ML models, experiment tracking, model registry
 
----
+----
 
 ## 📫 Let's Connect
 
