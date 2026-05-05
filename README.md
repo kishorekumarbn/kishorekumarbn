@@ -31,7 +31,7 @@
 
 🏆 **Hackathons:** TANFINET Hackathon 2026 &nbsp;|&nbsp; SAP × Great Lakes HackFest 2026
 
-💡 **Interests:** Machine Learning · NLP · Data Analytics · MLOps · GenAI · Time-Series Forecasting
+💡 **Interests:** Machine Learning · NLP · Data Analytics · Data Visualization · GenAI · Time-Series Forecasting
 
 ---
 
